@@ -2,8 +2,8 @@
 
 # config.py
 
-MYSQL_SCHEMA = 'stg'
-MYSQL_TABLE = 'map'
+SCHEMA = 'stg'
+TABLE = 'map'
 
 
 DB_SCHEMA = 'STG'
